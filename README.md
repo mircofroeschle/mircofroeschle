@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there! 👋
 
+### I'm just curious! So feel free to reach out.
 <!--
 **mircofroeschle/mircofroeschle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
